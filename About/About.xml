@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+	<name>CustomDeathRandomness</name>
+	<author>Torann</author>
+	<targetVersion>0.18.0</targetVersion>
+	<description>Version 0.18.0
+    In vanilla RimWorld, pawns have a 67% chance to instantly die when downed, animals have a 47% chance.
+	
+	This mod gives you the ability to change that value to whatever you want for both animals and pawns.
+	</description>
+</ModMetaData>

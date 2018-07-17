@@ -1,0 +1,7 @@
+E:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\CustomDeathRandomness\Assemblies\CustomDeathRandomness.dll
+E:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\CustomDeathRandomness\Source\CustomDeathRandomness\CustomDeathRandomness\obj\Debug\CustomDeathRandomness.csprojResolveAssemblyReference.cache
+E:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\CustomDeathRandomness\Source\CustomDeathRandomness\CustomDeathRandomness\obj\Debug\CustomDeathRandomness.dll
+C:\Users\Joshy\Documents\CustomDeathRandomness\Assemblies\CustomDeathRandomness.dll
+C:\Users\Joshy\Documents\CustomDeathRandomness\Source\CustomDeathRandomness\CustomDeathRandomness\obj\Debug\CustomDeathRandomness.csprojAssemblyReference.cache
+C:\Users\Joshy\Documents\CustomDeathRandomness\Source\CustomDeathRandomness\CustomDeathRandomness\obj\Debug\CustomDeathRandomness.csproj.CoreCompileInputs.cache
+C:\Users\Joshy\Documents\CustomDeathRandomness\Source\CustomDeathRandomness\CustomDeathRandomness\obj\Debug\CustomDeathRandomness.dll
